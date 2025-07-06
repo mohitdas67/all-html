@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+h1 {
+    color:red;
+}
+#cite{
+    color:black;
+}
+.green{
+    colour:green;
+}
+h1,h2{
+    colour:red;
+}
+h2.green{
+    front-size:20vh;
+}
+*{
+    margin:2%;
+}
